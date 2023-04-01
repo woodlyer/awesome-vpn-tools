@@ -75,8 +75,8 @@
 \[SSCap]  
 <https://github.com/Windyronnie/SSCap-v4.0>  
 <https://sourceforge.net/projects/sscap/files/?source=navbar>  
-\[SStap]  \<sstap、Proxifier、tun2socks  可以通过虚拟网卡的方式强制接管所有流量>  （可以搜索TUN/TAP工具强制接管指定程序的网络流量走虚拟网卡，通过SS代理转发流量）
-<https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A>  
+\[SStap]  <sstap、Proxifier、tun2socks  可以通过虚拟网卡的方式强制接管所有流量>  
+<https://github.com/FQrabbit/SSTap-Rule/releases>  
 \[SStap规则]  
 <https://github.com/FQrabbit/SSTap-Rule>  
 \[BifrostV]  
