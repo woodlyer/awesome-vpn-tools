@@ -26,6 +26,7 @@
     - Surge for Mac (http://nssurge.com/) $49.99  
     - ClashX Pro (https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)	 
 	- Clash for Mac (https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+    - ClashX Guide(中文教程/排错)(https://clashx.tech/tutorial)
 
 ## 🐱Linux  
     - Clash for Windows (https://github.com/Fndroid/clash_for_windows_pkg/releases)  
