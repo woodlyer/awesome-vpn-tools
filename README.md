@@ -30,7 +30,8 @@
 ## 🐱Linux  
     - Clash for Windows (https://github.com/Fndroid/clash_for_windows_pkg/releases)  
     - Mellow  (https://github.com/eycorsican/Mellow/releases)  
-    - V2rayA  (https://github.com/v2rayA/v2rayA)  
+    - V2rayA  (https://github.com/v2rayA/v2rayA)
+    - drkvl (https://github.com/DRAK0NN/drkvl)
 	
 ## 🐱路由器  
     - OpenClash (https://github.com/vernesong/OpenClash/wiki)  
