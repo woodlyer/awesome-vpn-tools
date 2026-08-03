@@ -20,10 +20,12 @@
     - Quantumult X (https://apps.apple.com/us/app/quantumult-x/id1443988620) $7.99  
     - Surge (https://apps.apple.com/us/app/id1442620678) $49.99  
     - Loon (https://apps.apple.com/us/app/loon/id1373567447) $5.99  
+    - Traveler's VPN (https://apps.apple.com/us/app/travelers-vpn/id6764288591) free download, $2.99 BYO unlock, auto split-tunnel (sing-box)  
 
 ## 🍎MacOS  
     - ClashX (https://github.com/yichengchen/clashX/releases)  
     - Surge for Mac (http://nssurge.com/) $49.99  
+    - Traveler's VPN for Mac (https://apps.apple.com/us/app/travelers-vpn/id6764288591) free download, $2.99 BYO unlock  
     - ClashX Pro (https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)	 
 	- Clash for Mac (https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 
