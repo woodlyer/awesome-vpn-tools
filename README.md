@@ -47,3 +47,6 @@
     - OpenWRT-Shadowsocks  (https://github.com/shadowsocks/openwrt-shadowsocks)  
     - Padavan (https://www.right.com.cn/forum/thread-161324-1-1.html)  
 
+
+## 🌐浏览器扩展  
+    - Noctis (https://noctis.c0nn3ct.info/) 仅代理 Chrome 浏览器，支持 VLESS/VMess/Trojan/Shadowsocks/Hysteria2/TUIC/WireGuard，内核可选 sing-box、Xray、mihomo  
