@@ -7,6 +7,7 @@
     - v2rayNG (https://github.com/2dust/v2rayNG/releases)  
     - Surfboard (https://github.com/getsurfboard/surfboard/releases) 冲浪板  
     - Matsuri (https://github.com/MatsuriDayo/Matsuri/releases) 茉莉  
+    - Mobile SSH (https://play.google.com/store/apps/details?id=io.github.mobile_ssh) SSH VPN、WireGuard、OpenVPN、Shadowsocks 客户端，需自备服务器或配置文件
 
 ## 🐱Windows  
     - Clash for Windows (https://github.com/Fndroid/clash_for_windows_pkg/releases)  
